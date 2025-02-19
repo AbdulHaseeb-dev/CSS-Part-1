@@ -5,10 +5,15 @@ h1 {
 
 p {
     color:pink;
-    background-color: green;
+    background-color: black;
 }
 
 button {
-    color: goldenrod;
-    background-color: black;
+    color: white;
+    background-color: blue;
 }
+
+h2 {
+    color:orange;
+}
+
